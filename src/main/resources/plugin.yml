@@ -1,0 +1,10 @@
+name: Redeemer
+version: 1.0.0
+main: com.omarexcub.redeemer.Redeemer
+api-version: '1.21'
+author: OMAREXCUB
+description: OMAREX Hub Code Redemption & GUI Shop Plugin
+commands:
+  redeem:
+    description: فتح متجر استرداد الأكواد أو استلام أداة المتجر
+    usage: /redeem [get]
